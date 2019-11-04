@@ -51,19 +51,29 @@ You always have to accept the device on your main device to make sure it was you
 
 ## Features
 
+<img alt="" src="/intro.jpg">
+
 ### Never Lose a Clip
+
+<img alt="" src="/clipboard.jpg">
 
 Whenever you use Cmd+C all clips are stored so you can access them anytime, effortlessly.
 
 ### Copy Once, Paste Everywhere
 
+<img alt="" src="/selected.jpg">
+
 Copy and paste clips at work,  at home, and on the go.
 
 ### Quick Access, Quick Paste
 
+<img alt="" src="/quick_access.jpg">
+
 Use a custom shortcut to access all your clicks on the spot.
 
 ### Organize Relevant Clips in Folders
+
+<img alt="" src="/clipmarks.jpg">
 
 Store passwords, emails, poetry in folders and keep your house clean.
 
