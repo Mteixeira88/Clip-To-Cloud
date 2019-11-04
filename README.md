@@ -53,34 +53,33 @@ You always have to accept the device on your main device to make sure it was you
 
 ### Never Lose a Clip
 
-<img alt="" src="/clipboard.jpg">
-
 Whenever you use Cmd+C all clips are stored so you can access them anytime, effortlessly.
+
+<img alt="" src="/clipboard.jpg">
 
 ### Copy Once, Paste Everywhere
 
-<img alt="" src="/selected.jpg">
-
 Copy and paste clips at work,  at home, and on the go.
+
+<img alt="" src="/selected.jpg">
 
 ### Quick Access, Quick Paste
 
-<img alt="" src="/quick_access_short.png">
-
 Use a custom shortcut to access all your clicks on the spot.
+
+<img alt="" src="/quick_access_short.png">
 
 ### Organize Relevant Clips in Folders
 
-<img alt="" src="/clipmarks.jpg">
-
 Store passwords, emails, poetry in folders and keep your house clean.
+
+<img alt="" src="/clipmarks.jpg">
 
 ### A Great User Experience
 
-<img alt="" src="./c2c_intro.gif">
-
 Manage all your clips in a polished interface and get a *delightful*  experience.
 
+<img alt="" src="./c2c_intro.gif">
 
 ## Authors
 **Miguel Teixeira as Swift and Backend Developer**
