@@ -31,9 +31,9 @@ Everytime you add a clip your clipboard, it will instantly be stored in your clo
 
 ### What about synced devices? How do you keep my clips safe?
 
-When you accept a device on your main device, the devices will communicate with a private and secure connection where the encryption key is transmited between them.
+When you accept a device on your main device, the devices will communicate with a private and secure connection where the encryption key is transmitted between them.
 
-#### But wait, if the encryption key is transmmited, even using a private and secure connection, can't someone hack the system and get my encryption key?
+#### But wait, if the encryption key is transmitted, even using a private and secure connection, can't someone hack the system and get my encryption key?
 
 No! When the main device shares the encryption key, shares it encrypted.
 
