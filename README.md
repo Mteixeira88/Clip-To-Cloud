@@ -25,7 +25,15 @@ Privacy and security is in our DNA, which is why we have end-to-end encryption. 
 
 ### How we do it?
 
-Everytime you add a clip your clipboard, it will instantly be stored in your cloud, meaning we store all your clips with a [AES encryption](https://pt.wikipedia.org/wiki/Advanced_Encryption_Standard) that has an encryption key stored in your main device, meaning, the device that is sharing the clipboard.
+Everytime you add a clip your clipboard, it will instantly be stored in your cloud, meaning we store all your clips with a Advanced Encryption Standard (AES) key that is stored in your main device, meaning, the device that is sharing the clipboard.
+
+### What is Advanced Encryption Standard (AES) encryption?
+
+When it comes to cyber security, AES is one of those acronyms that you see popping up everywhere. That’s because it has become the global standard of encryption and it is used to keep a significant amount of our communications safe.
+
+The Advanced Encryption Standard (AES) is a fast and secure form of encryption that keeps prying eyes away from our data. We see it in messaging apps like WhatsApp and Signal, programs like VeraCrypt and WinZip, in a range of hardware and a variety of other technologies that we use all of the time.
+
+More info about AES [here.](https://www.comparitech.com/blog/information-security/what-is-aes-encryption/)
 
 ### What about synced devices? How do you keep my clips safe?
 
