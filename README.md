@@ -67,7 +67,7 @@ Copy and paste clips at work,  at home, and on the go.
 
 ### Quick Access, Quick Paste
 
-<img alt="" src="/quick_access.jpg">
+<img alt="" src="/quick_access.png">
 
 Use a custom shortcut to access all your clicks on the spot.
 
