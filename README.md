@@ -7,7 +7,7 @@
 
 ## Downloads
 
-### [Version 1.0 Direct download](https://www.cliptocloud.com/download/ClipToCloud.dmg)
+### [macOS Direct download](https://www.cliptocloud.com/download/ClipToCloud.dmg)
 
 ### AppStore - On revision
 
