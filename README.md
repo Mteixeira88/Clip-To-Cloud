@@ -89,6 +89,10 @@ Manage all your clips in a polished interface and get a *delightful*  experience
 
 <img alt="" src="./c2c_intro.gif">
 
+## [Privacy Policy] (https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/privacy-policy.md)
+
+## [Terms and Conditions] (https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/terms.md)
+
 ## Authors
 **Miguel Teixeira as Swift and Backend Developer**
 * <https://github.com/Mteixeira88>
