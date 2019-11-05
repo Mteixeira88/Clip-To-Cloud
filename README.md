@@ -3,11 +3,11 @@
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/last_version-under_development-green">
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/last_version-%5E1.0-green">
+<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-%5E1.0-green"><img alt="" src="https://img.shields.io/badge/AppStore-%5EOnRevision-yellow">
 
 ## Downloads
 
-### [macOS Direct download](https://www.cliptocloud.com/download/ClipToCloud.dmg)
+### [BETA download](https://www.cliptocloud.com/download/ClipToCloud.dmg)
 
 ### AppStore - On revision
 
