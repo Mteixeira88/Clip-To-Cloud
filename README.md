@@ -7,7 +7,7 @@
 
 ## Downloads
 
-<a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="/betaButton.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton.png"></a>
+<a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
 
 
 
