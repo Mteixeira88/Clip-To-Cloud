@@ -5,7 +5,7 @@
 
 <img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0-green">
 
-## Downloads
+## macOS Downloads
 
 <a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
 
