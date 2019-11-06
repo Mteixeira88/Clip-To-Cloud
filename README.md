@@ -7,9 +7,7 @@
 
 ## Downloads
 
-### [BETA download](https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg)
-
-### AppStore - On revision
+<a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="https://img.shields.io/badge/AppStore-OnRevision-yellow"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="https://img.shields.io/badge/AppStore-OnRevision-yellow"></a>
 
 
 
