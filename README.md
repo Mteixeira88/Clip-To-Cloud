@@ -3,11 +3,11 @@
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/last_version-under_development-green">
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-OnRevision-yellow">
+<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0-green">
 
 ## Downloads
 
-<a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="/betaButton.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton.png"></a>
+<a href="https://www.cliptocloud.com/download/CliptoCloud-1.0-Beta-1.dmg"><img alt="" src="/betaButton_.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_.png"></a>
 
 
 
