@@ -82,13 +82,13 @@ Store passwords, emails, poetry in folders and keep your house clean.
 
 Use a custom shortcut to access all your clicks on the spot.
 
-<img alt="" src="/quick_access_short.png">
+<img alt="" src="/shortcut-v.jpg">
 
 ### A Great User Experience
 
 Manage all your clips in a polished interface and get a *delightful*  experience.
 
-<img alt="" src="./c2c_intro.gif">
+<img alt="" src="./c2c_intro_3..gif">
 
 ## [Privacy Policy](https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/privacy-policy.md)
 
