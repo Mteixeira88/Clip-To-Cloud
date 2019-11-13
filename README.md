@@ -88,7 +88,7 @@ Use a custom shortcut to access all your clicks on the spot.
 
 Manage all your clips in a polished interface and get a *delightful*  experience.
 
-<img alt="" src="./c2c_intro_3..gif">
+<img alt="" src="./c2c_intro_3.gif">
 
 ## [Privacy Policy](https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/privacy-policy.md)
 
