@@ -72,17 +72,17 @@ Copy and paste clips at work, at home, and on the go.
 
 <img alt="" src="/clipboard.gif">
 
+### Organize Relevant Clips in Folders
+
+Store passwords, emails, poetry in folders and keep your house clean.
+
+<img alt="" src="/folder.gif">
+
 ### Quick Access, Quick Paste
 
 Use a custom shortcut to access all your clicks on the spot.
 
 <img alt="" src="/quick_access_short.png">
-
-### Organize Relevant Clips in Folders
-
-Store passwords, emails, poetry in folders and keep your house clean.
-
-<img alt="" src="/clipmarks.jpg">
 
 ### A Great User Experience
 
