@@ -66,13 +66,11 @@ You always have to accept the device on your main device to make sure it was you
 
 Whenever you use ⌘+C all clips are stored so you can access them anytime, effortlessly.
 
-<img alt="" src="/clipboard.jpg">
-
-### Copy Once, Paste Everywhere
+#### Copy Once, Paste Everywhere
 
 Copy and paste clips at work, at home, and on the go.
 
-<img alt="" src="/selected.jpg">
+<img alt="" src="/clipboard.gif">
 
 ### Quick Access, Quick Paste
 
