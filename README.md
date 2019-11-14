@@ -20,6 +20,21 @@
 
 ClipToCloud is a software that allows you to store all your copies in a customised clipboard all around your iOS devices. You only need to use the normal ⌘+C shortcut on your laptop and you can access to it on all your iOS devices.
 
+## What you get?
+* No account required
+* Store up to 200 copies
+* Manage all your clips in one place
+* Unlimited folders and clipmarks
+* Organize Relevant Clips in Folders
+* Easy acccess to your clip history (cmd+shift+V)
+* Easy sync. Unlimited devices.
+
+## Security
+* End to end encryption
+* Sync all your devices safely
+* All your clips are encrypted
+* Accept and revoke your devices
+
 ## We take security seriously
 
 ### End to End Encryption
