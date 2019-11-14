@@ -1,7 +1,7 @@
-# Clip-To-Cloud
+# ClipToCloud
 ### Power up your clipboard and start copy-pasting like a pro
 
-<img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/beta-1.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-under_development-yellow">
+<img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/beta-1.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-Waiting_for_Review-yellow">
 
 <img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.1_Beta_2-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1-green">
 
