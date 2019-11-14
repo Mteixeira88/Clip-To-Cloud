@@ -110,15 +110,14 @@ Manage all your clips in a polished interface and get a *delightful*  experience
 ## [Terms and Conditions](https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/terms.md)
 
 ## Authors
-**Miguel Teixeira as Swift and Backend Developer**
+**Miguel Teixeira as iOS and Backend Developer**
 * <https://github.com/Mteixeira88>
 
+**Luis Vieira as UX Designer and UI Developer**
+* <https://github.com/luismmvieira>
 
 **Emanuel Lopes as Devops Developer**
 * <https://github.com/emanuellopes>
 
 **Ruben Domingues as Devops Developer**
 * <https://github.com/rcdd>
-
-**Luis Vieira as UX Designer**
-* <https://github.com/luismmvieira>
