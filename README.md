@@ -113,7 +113,7 @@ Manage all your clips in a polished interface and get a *delightful*  experience
 **Miguel Teixeira as iOS and Backend Developer**
 * <https://github.com/Mteixeira88>
 
-**Luis Vieira as UX Designer and UI Developer**
+**Luis Vieira as UX Designer and Web Developer**
 * <https://github.com/luismmvieira>
 
 **Emanuel Lopes as Devops Developer**
