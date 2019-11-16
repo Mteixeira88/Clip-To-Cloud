@@ -7,7 +7,7 @@
 
 ## iOS Downloads
 
-<a href="https://www.cliptocloud.com/download/Clip-To-Cloud-iOS.ipa"><img alt="" src="/betaButton_2.png"></a>
+<a href="https://tiny.app.link/2OoiGXaaF1"><img alt="" src="/betaButton_2.png"></a>
 
 
 ## macOS Downloads
