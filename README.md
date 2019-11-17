@@ -20,6 +20,12 @@
 
 ClipToCloud is a software that allows you to store all your copies in a customised clipboard all around your iOS devices. You only need to use the normal ⌘+C shortcut on your laptop and you can access to it on all your iOS devices.
 
+### Yes, It’s all about Cmd+C’s.
+
+You work fast. We know it. You copy-paste, fire clicks and double clicks, move information around, use shortcuts, travel from browsers to apps and round again.
+
+What we propose is to power-up your clipboard and work even faster. With less app switching and efortless access to all those important Cmd-C’s you did.
+
 <img alt="" src="/intro_c2c_gif.gif">
 
 ## What you get?
