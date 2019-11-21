@@ -26,7 +26,7 @@ You work fast. We know it. You copy-paste, fire clicks and double clicks, move i
 
 What we propose is to power-up your clipboard and work even faster. With less app switching and efortless access to all those important Cmd-C’s you did.
 
-<img alt="" src="/intro_c2c_gif.gif">
+<img alt="" src="/final_intro_store.gif">
 
 ## What you get?
 * No account required
