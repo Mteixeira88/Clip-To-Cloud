@@ -3,7 +3,7 @@
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0-green">
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.2_Beta_2-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2-green">
+<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.3_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2-green">
 
 
 ## iOS Downloads
@@ -12,7 +12,7 @@
 
 ## macOS Downloads
 
-<a href="https://www.cliptocloud.com/app.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
+<a href="https://www.cliptocloud.com/ClipToCloud-Beta.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
 
 
 
