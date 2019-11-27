@@ -16,7 +16,7 @@
 
 ## Beta
 
-Check what's new: <a href="/releases/latest"></a>
+Check the new features <a href="releases/tag/1.3-Beta-1">here.</a>
 
 
 
