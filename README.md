@@ -16,7 +16,7 @@
 
 ## Beta
 
-Check the new features <a href="releases/tag/1.3-Beta-1">here.</a>
+Check the new features <a href="https://github.com/Mteixeira88/Clip-To-Cloud/releases/tag/1.3-Beta-1">here.</a>
 
 
 
