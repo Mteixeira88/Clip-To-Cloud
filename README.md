@@ -12,7 +12,7 @@
 
 ## macOS Downloads
 
-<a href="https://www.cliptocloud.com/ClipToCloud-Beta.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
+<a href="https://www.cliptocloud.com/CliptoCloud-Beta.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
 
 ## Beta
 
