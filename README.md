@@ -139,7 +139,7 @@ Manage all your clips in a polished interface and get a *delightful*  experience
 **Luis Vieira as UX Designer and Web Developer**
 * <https://github.com/luismmvieira>
 
-**Emanuel Lopes as Devops Developer**
+**Emanuel Lopes as Android and Devops Developer**
 * <https://github.com/emanuellopes>
 
 **Ruben Domingues as Devops Developer**
