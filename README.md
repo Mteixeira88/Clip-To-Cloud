@@ -3,7 +3,7 @@
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1-green">
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-1.4_Beta_6-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.3-green">
+<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-2.0_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-1.3-green">
 
 
 ## iOS Downloads
