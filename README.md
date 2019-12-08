@@ -85,23 +85,25 @@ We have to start somewhere. Apple’s operating systems  showed more security th
 
 You always have to accept the device on your main device to make sure it was you who request access to your clipboard.
 
+<img alt="" src="/1-Intro_ctc.jpg">
+
 ## Features
 
 ### Never Lose a Clip
 
-Whenever you use ⌘+C all clips are stored so you can access them anytime, effortlessly.
+<img alt="" src="/2-Never Lose a Clip.jpg">
 
 #### Copy Once, Paste Everywhere
 
 Copy and paste clips at work, at home, and on the go.
 
-<img alt="" src="/clipboard.gif">
+<img alt="" src="/3-Quick Access, Quick Pastes.jpg">
 
 ### Organize Relevant Clips in Folders
 
 Store passwords, emails, poetry in folders and keep your house clean.
 
-<img alt="" src="/folder.gif">
+<img alt="" src="/4-Organize Relevant Clips in Folders.jpg">
 
 ### Quick Access, Quick Paste
 
@@ -119,7 +121,7 @@ Revoke the device whenever you want.
 
 Remember, you always have the last word.
 
-<img alt="" src="/syncing_store.gif">
+<img alt="" src="/5-Sync With All Your Devices.jpg">
 
 
 ### A Great User Experience
