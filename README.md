@@ -18,6 +18,7 @@
 
 Check the new features <a href="https://github.com/Mteixeira88/Clip-To-Cloud/releases/tag/1.3-Beta-1">here.</a>
 
+NOTE: IF you intend to sync multiple devices do NOT USE Beta version.
 
 
 ## What is ClipTocloud
