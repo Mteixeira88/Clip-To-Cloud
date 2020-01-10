@@ -5,7 +5,6 @@
 
 <img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-2.1_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-2.1-green">
 
-
 ## iOS Downloads
 
 <a href="https://apps.apple.com/us/app/cliptocloud/id1487817661"><img alt="" src="/appStoreButton_2.png"></a>
