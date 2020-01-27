@@ -8,7 +8,6 @@
 
 ## iOS Downloads
 
-
 <a href="https://apps.apple.com/us/app/cliptocloud/id1487817661"><img alt="" src="/appStoreButton_2.png"></a>
 
 ## macOS Downloads
