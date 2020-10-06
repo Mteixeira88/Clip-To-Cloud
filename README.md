@@ -2,25 +2,13 @@
 ### Power up your clipboard and start copy-pasting like a pro
 
 
-<img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/AppStore-2.0-green">
+<img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0-green">
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E10.14-red"> <img alt="" src="https://img.shields.io/badge/beta-2.1_Beta_1-green"> <img alt="" src="https://img.shields.io/badge/AppStore-2.1-green">
-
-## iOS Downloads
-
-<a href="https://apps.apple.com/us/app/cliptocloud/id1487817661"><img alt="" src="/appStoreButton_2.png"></a>
+<img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"><img alt="" src="https://img.shields.io/badge/AppStore-1.0.1-green">
 
 ## macOS Downloads
 
-
-<a href="https://www.cliptocloud.com/CliptoCloud-Beta.dmg"><img alt="" src="/betaButton_2.png"></a> <a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
-
-## Beta
-
-Check the new features <a href="https://github.com/Mteixeira88/Clip-To-Cloud/releases/tag/1.3-Beta-1">here.</a>
-
-NOTE: IF you intend to sync multiple devices do NOT USE Beta version.
-
+<a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
 
 ## What is ClipTocloud
 
